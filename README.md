@@ -1,6 +1,6 @@
-# final_project
+# Motorbike shop
 
-A new Flutter project.
+Motorbike catalog and service shop
 
 ## Getting Started
 
